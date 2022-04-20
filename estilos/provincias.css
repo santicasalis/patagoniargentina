@@ -1,0 +1,125 @@
+
+#climaCiudad{
+border-color: green;
+border-style: solid;
+text-align: center;
+width: 30%;
+margin-top: 2rem;
+margin:auto;
+}
+
+
+h1{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.titulo{
+    background-image: url("https://images.unsplash.com/photo-1580780965002-6ca357516eb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHRpZXJyYSUyMGRlbCUyMGZ1ZWdvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60");
+    height: 50vh;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+}
+
+.tituloNeuquen{
+     background-image: url("https://img2.storyblok.com/1600x500/filters:format(webp)/f/77475/1600x500/126935f87a/imagen-neuquen.jpg");
+     height: 50vh;
+     margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+}
+
+.tituloChubut{
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/3963d089615115.5dfa44710a8ad.jpg");
+    height: 50vh;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+}
+
+.tituloRioNegro{
+    background-image: url("https://media.traveler.es/photos/61376b79d7c7024f9175e818/master/w_1920%2Cc_limit/46654.jpg");
+    height: 50vh;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+}
+.tituloSantaCruz{
+    background-image: url("https://s1.1zoom.me/big0/798/417315-svetik.jpg");
+    height: 50vh;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+}
+.video{
+margin-top: 2rem;
+}
+
+footer{
+   
+    height: 10vh;
+    margin-bottom: 5rem;
+}
+
+.Insta { width:50px;
+    height:50px; 
+    margin-top: 2%;
+    padding:7px;
+}
+
+.redes { text-align: center;
+     margin-bottom: 2rem;
+    }
+
+
+h2{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.nuevoDivClima{
+    padding: 1rem;
+}
+
+#climaRawson{
+  margin:auto;
+  border-color: green;
+  border-style: solid;
+  text-align: center;
+  width: 30%;
+  margin-top: 2rem;
+}
+
+#climaNeuquen{
+  margin:auto;
+  border-color: green;
+  border-style: solid;
+  text-align: center;
+  width: 30%;
+  margin-top: 2rem;
+
+}
+
+#climaSantaCruz{
+    margin:auto;
+    border-color: green;
+    border-style: solid;
+    text-align: center;
+    width: 30%;
+    margin-top: 2rem;
+  
+  }
+  
+  #climaRioNegro{
+    margin:auto;
+    border-color: green;
+    border-style: solid;
+    text-align: center;
+    width: 30%;
+    margin-top: 2rem;
+  
+  }
